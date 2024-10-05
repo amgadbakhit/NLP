@@ -1,1 +1,4 @@
 # NLP
+
+
+## project notes
